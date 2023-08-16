@@ -1,11 +1,11 @@
 ![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)
 <h1 align="center">Hi 👋, I'm Sanjay Jayan J</h1>
 <h3 align="center">Final Year CSE Student | Building Innovative Android Apps with Java and XML</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966”>
+<img align="right" alt="Coding" width="400" src="#”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsanjuoffl&label=Profile%20views&color=0e75b6&style=flat" alt="iamsanjuoffl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamsanjuoffl" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/iamsanjuoffl?logo=twitter&style=for-the-badge" alt="https://twitter.com/iamsanjuoffl" /></a> </p>
+<p align="left"> <a href="iamsanjuoffl" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/iamsanjuoffl?logo=twitter&style=for-the-badge" alt="https://twitter.com/iamsanjuoffl" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
