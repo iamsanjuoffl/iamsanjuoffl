@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **iamsanju360@gmail.com**
 
-- ⚡ Fun fact **Droid Dreamer: Crafting Android dreams one line of code at a time. 🤖💤**
+- ⚡ Fun fact **No smile, only compile 🤖💤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
