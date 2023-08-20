@@ -26,5 +26,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsanjuoffl&show_icons=true&locale=en&layout=compact" alt="iamsanjuoffl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsanjuoffl&show_icons=true&locale=en" alt="iamsanjuoffl" /></p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shankar-231&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsanjuoffl&" alt="iamsanjuoffl" /></p>
