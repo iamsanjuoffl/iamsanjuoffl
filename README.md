@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsanjuoffl&label=Profile%20views&color=0e75b6&style=flat" alt="iamsanjuoffl" /> </p>
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Networks**
 -  🖥️ I’m currently working on **Letz Chat [Android Chatting Application]**
 
 - 💬 Ask me about **Android Application , Java , HTML & CSS , SQL**
